@@ -7,7 +7,7 @@ Please complete this short test, it will help both you (the candidate) and us de
 
 ## Requirements
 
-1. The test must be completed using one of the followng programming languages: PHP, Java, or Javascript (back-end or front-end Javascript)
+1. The test must be completed using one of the following programming languages: PHP, Java, or Javascript (back-end or front-end Javascript)
 
 2. Consume the PM2.5 rest api from data.gov.sg. More information about the API can be found at https://data.gov.sg/dataset/pm2-5.
 

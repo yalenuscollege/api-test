@@ -23,31 +23,20 @@ If you choose to use a library, please use inline comments to explain what you a
 
 $ php restapitest.php
 
+
 event_time: 2018-06-11T12:08:53Z
-
 timestamp: 2018-06-11T12:00:00Z
-
 west: 20
-
 east: 26
-
 central: 21
-
 south: 21
-
 north: 14
 
 
 event_time: 2018-06-11T13:03:53Z
-
 timestamp: 2018-06-11T13:00:00Z
-
 west: 11
-
 east: 12
-
 central: 19
-
 south: 22
-
 north: 14

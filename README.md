@@ -17,7 +17,9 @@ Here is an example of the endpoint URL: https://data.gov.sg/realtime-api/environ
 
 Your program should be executable in command line / console (PHP, Java, back-end Javascript) or be displayed in HTML (Front-end Javascript)
 
-If you choose to use a library, please use inline comments to explain what you are using the library for. 
+If you choose to use a library, please use inline comments to explain what you are using the library for. Send our HR representative a link to your code along with any other code samples you wish to share as a part of your application. 
+
+Thank you and good luck!
 
 ## Example
 
